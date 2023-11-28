@@ -1,0 +1,7 @@
+tensorflow
+wget
+pyaudio
+numpy
+scipy
+tensor
+tflite-support-nightly
